@@ -72,3 +72,5 @@ microproxy
 *.sublime*
 *.swp
 bin/
+auth.txt
+microproxy.toml

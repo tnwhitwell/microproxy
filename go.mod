@@ -1,4 +1,4 @@
-module github.com/thekvs/microproxy
+module github.com/tnwhitwell/microproxy
 
 require (
 	github.com/BurntSushi/toml v0.0.0-20170626110600-a368813c5e64
